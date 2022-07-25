@@ -3,6 +3,7 @@ dofan-resolusi
 *css
 *html
 *Framework CSS
+  ^Bootstrap
 - mempelajari pemrograman c beserta konsep-konsepnya.
 - pemikir.
 - bijak pada tempatnya.
