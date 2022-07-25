@@ -4,6 +4,7 @@ dofan-resolusi
 *html
 *Framework CSS
   ^Tailwind
+  ^Bootstrap
 - mempelajari PHP sampai keakar-akarnya
 - pemikir.
 - bijak pada tempatnya.
