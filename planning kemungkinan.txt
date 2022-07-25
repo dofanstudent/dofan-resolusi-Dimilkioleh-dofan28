@@ -1,4 +1,6 @@
 Planning Kemungkinan
 - pelajari kalkulus
-- pelajari sistem operasi
-- pelajari jaringan
+- pelajari sistem operasi 
+* Debian10
+* Ubuntu
+- pelajari jaringan 
