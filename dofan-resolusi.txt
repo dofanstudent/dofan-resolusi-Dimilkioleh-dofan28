@@ -7,3 +7,4 @@ dofan-resolusi
 - diri sendiri.
 - tak bergantung.
 - berani.
+- buat web.
