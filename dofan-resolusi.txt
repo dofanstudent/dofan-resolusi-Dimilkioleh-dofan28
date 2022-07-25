@@ -2,7 +2,9 @@ dofan-resolusi
 - mempelajari web programming pada bidang front-end.
 *css
 *html
-- mempelajari pemrograman c beserta konsep-konsepnya.
+*Framework CSS
+  ^Tailwind
+- mempelajari PHP sampai keakar-akarnya
 - pemikir.
 - bijak pada tempatnya.
 - berseni.
