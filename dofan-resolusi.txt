@@ -3,8 +3,8 @@ dofan-resolusi
 *css
 *html
 *Framework CSS
-  ^Bootstrap
-- mempelajari pemrograman c beserta konsep-konsepnya.
+  ^Tailwind
+- mempelajari PHP sampai keakar-akarnya
 - pemikir.
 - bijak pada tempatnya.
 - berseni.
