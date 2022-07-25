@@ -2,6 +2,8 @@ dofan-resolusi
 - mempelajari web programming pada bidang front-end.
 *css
 *html
+*Framework CSS
+  ^Bootstrap
 - mempelajari pemrograman c beserta konsep-konsepnya.
 - pemikir.
 - bijak pada tempatnya.
